@@ -13,5 +13,5 @@ A portal with custom-built video games to challenge yourself and others at achie
 - A personal scoreboard to check previous scores attained in each game (along with profile statistics such as hours played, games played etc.)
 
 
-# Language and Libraries used:
+## Language and Libraries used:
 Python, pygame, pytest
