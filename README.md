@@ -1,17 +1,20 @@
-# ClusterGames
+# Solar System Gravitation
 
-A portal with custom-built video games to challenge yourself and others at achieving the highest score across a wide range of game genres.
+A solar system application that allows you to place asteroids and other planets to see the impact of gravitation on the solar system.
 
 
-## Motivations for Project:
-- Interest in video games and the desire to create single player and multiplayer games centralised in one place.
-- Challenge myself at creating custom games that are both fun to play and easy to understand.
+## Features:
+- Place asteroids that will interact with the gravitation of the planet.
+- A draw arrow to imply the speed and direction of the asteroid. 
 
 
 ## Upcoming Features:
-- Add a multiplayer component to a variety of games added.
-- A personal scoreboard to check previous scores attained in each game (along with profile statistics such as hours played, games played etc.)
+- Create the option to place/move/delete planets.
+- Have the ability to zoom in and out of the planets.
+- Reset button back to original settings.
+- Gravitational effects dependent on the size of the user-placed planet.
+- A menu to manage current planets, asteroids and statistics of planets hit.
 
 
 ## Language and Libraries used:
-Python, pygame, pytest
+Python, math, pygame 
